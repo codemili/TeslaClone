@@ -1,2 +1,2 @@
 # TeslaClone
-Tesla Clone
+React Tesla Clone
